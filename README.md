@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Wahab 👋
 
-<!--
-**Wahab45/Wahab45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Security Professional | SOC Analyst in Training  
+📍 Bremen, Germany  
+🎯 Physical Security + Cybersecurity — Combined Expertise
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+Security professional with hands-on experience in physical security (§34a certified)
+and currently transitioning into cybersecurity as a SOC Analyst.
+
+Currently studying:
+- 📚 SAL1 — SOC Analyst Level 1
+- 🖥️ TryHackMe — SOC & Cyber Defense paths
+- 🔐 CompTIA Security+ SY0-701 (upcoming)
+
+---
+
+## 🛠️ Skills in Progress
+
+| Area | Tools & Topics |
+|------|---------------|
+| SIEM | Splunk, ELK, QRadar |
+| OS | Windows Event Logs, Linux, Active Directory |
+| Threat Intel | MISP, VirusTotal, MITRE ATT&CK |
+| Network | Wireshark, Subnetting, Firewall Analysis |
+
+---
+
+## 📌 Current Focus
+
+Building detection skills and working toward BTL1 certification.
+
+---
+
+*"The best defense starts with understanding the attack."*
