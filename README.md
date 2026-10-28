@@ -2,7 +2,7 @@
 
 **Fachinformatiker für Systemintegration (Umschulung) | SOC / Blue Team | Linux & Automation**
 
-Based in Germany. Building practical skills for junior SOC analyst and IT system integration roles.
+Based in Germany. Focused on SOC analysis, cybersecurity, Linux administration, and IT system integration.
 
 I'm currently completing my IT system integration retraining and documenting what I learn through hands-on cybersecurity and Linux labs. My focus is on understanding the evidence behind alerts, automating repeatable tasks, and verifying results instead of assuming that a successful command means a successful outcome.
 
