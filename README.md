@@ -11,6 +11,7 @@ I'm currently completing my IT system integration retraining and documenting wha
 | Project | What I worked on | Evidence / code |
 | --- | --- | --- |
 | **Linux Server Lifecycle** | Ubuntu 24.04 on Hyper-V, Ansible provisioning, SSH hardening, backups, and an isolated restore test with SHA-256 verification of one recovered file | [Documentation and playbooks](https://github.com/Wahab45/linux-server-lifecycle) |
+| **Linux Server Infrastructure Lab** | Ubuntu-based server and client lab with Samba AD DC, Kerberos, DNS, Kea DHCP, Bash/Cron monitoring, and documented troubleshooting; some tests are recorded observations pending full re-verification | [Lab documentation and screenshots](https://github.com/Wahab45/linux-server-infrastructure-lab) |
 | **SOC Investigation Write-ups** | Simulated alert triage: Windows logs, SSH authentication, firewall scanning, phishing email, and VPN access anomalies | [Evidence-based case notes](https://github.com/Wahab45/SOC-Writeups) |
 
 ## Training and certifications
